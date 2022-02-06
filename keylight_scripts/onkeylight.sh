@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
-STRING="Keyboard led light turned ON"
+S="Keyboard led light turned ON"
 
 xset led named "Scroll Lock"
 
-echo $STRING
+echo $S
